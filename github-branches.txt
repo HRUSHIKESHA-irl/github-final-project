@@ -1,0 +1,2 @@
+git branch -vv
+* main 4be28fc Added simple-interest.sh script
